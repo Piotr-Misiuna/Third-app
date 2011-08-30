@@ -32,4 +32,6 @@ gem 'sqlite3'
 
 group :test do
  gem 'rspec','2.6.0'
+ gem 'spork','~>0.9.0.rc'
+ gem 'webrat'
 end
